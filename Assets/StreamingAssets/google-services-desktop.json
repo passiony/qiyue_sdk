@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "26512584584",
+    "project_id": "gyelyeong-511d0",
+    "storage_bucket": "gyelyeong-511d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26512584584:ios:921706d9e290476025543d",
+        "android_client_info": {
+          "package_name": "com.pangsky.gloapple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26512584584-r0u7chrinm3ga9pkrra6r52cec03cr3e.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnnduKqFICR7yHjaV4y_EwZmrywdO8Xw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

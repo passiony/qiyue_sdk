@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "26512584584",
+    "project_id": "gyelyeong-511d0",
+    "storage_bucket": "gyelyeong-511d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26512584584:android:3d76f041766aaa7325543d",
+        "android_client_info": {
+          "package_name": "com.pangsky.glogp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26512584584-aleoph2b7kbouogikrgglsire77haqqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pangsky.glogp",
+            "certificate_hash": "9e4e3416394cd4dae02b8911649f3acf46712f23"
+          }
+        },
+        {
+          "client_id": "26512584584-knfeab1jirg7cre6kl6kauek0q99eanc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0xqKckl1O0YF3kpiWoXpxhnQS_9SMUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26512584584-knfeab1jirg7cre6kl6kauek0q99eanc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26512584584-r0u7chrinm3ga9pkrra6r52cec03cr3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pangsky.gloapple",
+                "app_store_id": "1633029757"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26512584584:android:5ef8de9d8cc49fcd25543d",
+        "android_client_info": {
+          "package_name": "com.pangsky.glogs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26512584584-tiegg4lduu2ufai7h5l2drfhjj04kf76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pangsky.glogs",
+            "certificate_hash": "9e4e3416394cd4dae02b8911649f3acf46712f23"
+          }
+        },
+        {
+          "client_id": "26512584584-knfeab1jirg7cre6kl6kauek0q99eanc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0xqKckl1O0YF3kpiWoXpxhnQS_9SMUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26512584584-knfeab1jirg7cre6kl6kauek0q99eanc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26512584584-r0u7chrinm3ga9pkrra6r52cec03cr3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pangsky.gloapple",
+                "app_store_id": "1633029757"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26512584584:android:351b0883b338271e25543d",
+        "android_client_info": {
+          "package_name": "com.pangsky.gloos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26512584584-6sa5gj6v9dfniqqnl5qc0roj84hm55h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pangsky.gloos",
+            "certificate_hash": "9e4e3416394cd4dae02b8911649f3acf46712f23"
+          }
+        },
+        {
+          "client_id": "26512584584-knfeab1jirg7cre6kl6kauek0q99eanc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0xqKckl1O0YF3kpiWoXpxhnQS_9SMUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26512584584-knfeab1jirg7cre6kl6kauek0q99eanc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "26512584584-r0u7chrinm3ga9pkrra6r52cec03cr3e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pangsky.gloapple",
+                "app_store_id": "1633029757"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
